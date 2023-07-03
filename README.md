@@ -2,9 +2,7 @@
 
 SuBook is a social networking application which has been implemented by using server and client modules. 
 
-The Server module manages the storage of posts, posts feed, and friendships between the users,
-
-and the Client module acts as a user who shares posts, adds and removes other users from his/her friendship, and views posts of other users.
+The Server module manages the storage of posts, posts feed, and friendships between the users, and the Client module acts as a user who shares posts, adds and removes other users from his/her friendship, and views posts of other users.
 
 The server listens on a predefined port and accepts incoming client connections. 
 
